@@ -119,7 +119,7 @@ def main():
 
     print("\n" + "=" * 50)
     print(f"✅ Total artikel : {len(df)}")
-    print(f"✅ File CSV      : antara_khamenei_articles.csv")
+    print(f"✅ File CSV      : antara-link-scraping.csv")
     print("=" * 50)
     print(df.head(10).to_string())
 
