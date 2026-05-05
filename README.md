@@ -1,5 +1,3 @@
-# sentiment-analysis-kematian-ali-khamenei
-
 # 📰 Analisis Sentimen Pemberitaan Kematian Ali Khamenei di Media Online Indonesia
 
 > **Studi komparatif analisis sentimen berbasis NLP terhadap 487 artikel berita dari 5 platform media online Indonesia menggunakan TextBlob (lexicon-based), POS Tagging (Stanza), TF-IDF, dan Named Entity Recognition.**
